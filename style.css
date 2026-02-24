@@ -1,0 +1,27 @@
+*{
+    background-color: #f0f7f0;
+    color: rgb(170, 10, 10);
+}
+h1{
+    font-family: 'Liberation Serif', Georgia, serif;
+}
+p{
+    font-family: Ubuntu, 'DejaVu Sans', sans-serif;
+}
+#author{
+    color: forestgreen;
+    font-weight: 300;
+}
+#choose{
+    font-size: 1.1em;
+}
+a{
+    display: inline-block;
+    font-family: Chilanka, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #fb6b6b;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
